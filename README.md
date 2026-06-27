@@ -25,6 +25,14 @@ This GitHub profile showcases my learning journey, projects, and practical exper
 * Shell Scripting
 * CI/CD
 
+## 🚀 Featured Projects
+
+- 🌍 [Terraform Infrastructure Environment](https://github.com/sk7652183-rgb/terraform_infra_environment) – Infrastructure as Code (IaC) using Terraform.
+- 📚 [Git Commands](https://github.com/sk7652183-rgb/git-commands) – Git commands and hands-on practice.
+- ⚙️ [Jenkins Shared Libraries](https://github.com/sk7652183-rgb/Jenkins-shared-libaries) – Reusable Jenkins pipeline libraries.
+- 🔄 [GitHub Actions Practice](https://github.com/sk7652183-rgb/github-actions-praticed) – CI/CD workflows with GitHub Actions.
+- 🐧 [Shell Scripting](https://github.com/sk7652183-rgb/Shell-Scripting) – Automation scripts for GitHub and Linux administration.
+
 ## 📚 What I'm Working On
 
 * Building real-world DevOps projects
