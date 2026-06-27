@@ -4,9 +4,8 @@
 </h1>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&width=600&lines=DevOps+Engineer;AWS+%7C+Linux+%7C+Docker;Terraform+%7C+Ansible+%7C+Jenkins;GitHub+Actions+%7C+CI%2FCD;Always+Learning+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&width=600&lines=DevOps+Engineer+%7C+Cloud+Enthusiast+%7C+Automation+Learner" alt="Typing SVG" />
 </p>
-
 
 
 ## 🚀 About Me
