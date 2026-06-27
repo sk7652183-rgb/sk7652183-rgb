@@ -1,10 +1,6 @@
 # Hi, I'm Sufiyan Khan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&width=550&lines=DevOps+Engineer;AWS+Cloud+Enthusiast;Linux+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Ansible+%7C+Jenkins;CI%2FCD+%7C+GitHub+Actions;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
-  </a>
-</p>
+<h3>🚀 DevOps Engineer | Cloud Enthusiast | Automation Learner</h3>
 
 ## 🚀 About Me
 
