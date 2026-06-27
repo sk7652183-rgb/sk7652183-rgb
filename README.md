@@ -1,7 +1,10 @@
-# Hi, I'm Sufiyan Khan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+<h1>
+  Hi, I'm Sufiyan Khan
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C853&center=true&vCenter=true&width=700&lines=DevOps+Engineer;AWS+%7C+Linux+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Ansible+%7C+Jenkins;GitHub+Actions+%7C+CI%2FCD;Shell+Scripting+%7C+Python;Always+Learning+and+Building+🚀" />
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&width=600&lines=DevOps+Engineer;AWS+%7C+Linux+%7C+Docker;Terraform+%7C+Ansible+%7C+Jenkins;GitHub+Actions+%7C+CI%2FCD;Always+Learning+🚀" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
