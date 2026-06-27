@@ -63,11 +63,21 @@ This GitHub profile showcases my learning journey, projects, and practical exper
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Challenge-90DaysOfDevOps-blue?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/90DaysOfDevOps-Active-blue?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/DevOps-Learning-orange?style=for-the-badge&logo=linux" />
+<img src="https://img.shields.io/badge/Hands--On-Practice-green?style=for-the-badge&logo=docker" />
 
 </p>
 
-Currently participating in the **#90DaysofDevOps** challenge while building hands-on DevOps projects daily.
+### 🔥 Journey Progress
+🟢 Learning DevOps concepts daily  
+🟡 Practicing real-world projects  
+🚀 Building CI/CD, Cloud & Automation skills  
+
+---
+
+💡 **Currently participating in the #90DaysofDevOps challenge**  
+💻 Focused on building hands-on DevOps projects every day  
 
 
 ## 📊 GitHub Stats
