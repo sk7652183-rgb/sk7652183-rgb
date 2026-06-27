@@ -1,4 +1,8 @@
-# # Hi, I'm Sufiyan Khan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+# Hi, I'm Sufiyan Khan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C853&center=true&vCenter=true&width=700&lines=DevOps+Engineer;AWS+%7C+Linux+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Ansible+%7C+Jenkins;GitHub+Actions+%7C+CI%2FCD;Shell+Scripting+%7C+Python;Always+Learning+and+Building+🚀" />
+</p>
 
 ## 🚀 About Me
 
