@@ -55,7 +55,7 @@ This GitHub profile showcases my learning journey, projects, and practical exper
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=kubernetes,githubactions,aws,terraform" />
+<img src="https://skillicons.dev/icons?i=githubactions,Prometheus,Grafana,Python" />
 
 </p>
 
