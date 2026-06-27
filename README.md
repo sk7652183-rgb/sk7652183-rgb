@@ -55,15 +55,19 @@ This GitHub profile showcases my learning journey, projects, and practical exper
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=githubactions,Prometheus,Grafana,Python" />
+<img src="https://skillicons.dev/icons?i=githubactions,python,prometheus,grafana" />
 
 </p>
 
-### Topics I'm focusing on:
-- Kubernetes
-- Advanced CI/CD
-- Cloud Infrastructure Automation
-- DevOps Best Practices
+## 🚀 Current Challenge
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Challenge-90DaysOfDevOps-blue?style=for-the-badge&logo=github" />
+
+</p>
+
+Currently participating in the **#90DaysofDevOps** challenge while building hands-on DevOps projects daily.
 
 
 ## 📊 GitHub Stats
