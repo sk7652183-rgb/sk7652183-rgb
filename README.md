@@ -20,17 +20,11 @@ This GitHub profile showcases my learning journey, projects, and practical exper
 
 ## 🛠️ Skills
 
-* AWS
-* Linux
-* Git & GitHub
-* Docker
-* Kubernetes
-* Terraform
-* Ansible
-* Jenkins
-* GitHub Actions
-* Shell Scripting
-* CI/CD
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,linux,git,github,docker,kubernetes,terraform,ansible,jenkins,bash" />
+
+</p>
 
 ## 🚀 Featured Projects
 
@@ -59,11 +53,28 @@ This GitHub profile showcases my learning journey, projects, and practical exper
 
 ## 🌱 Currently Learning
 
-* Kubernetes
-* Advanced CI/CD
-* Cloud Infrastructure Automation
-* DevOps Best Practices
-  
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=kubernetes,githubactions,aws,terraform" />
+
+</p>
+
+### Topics I'm focusing on:
+- Kubernetes
+- Advanced CI/CD
+- Cloud Infrastructure Automation
+- DevOps Best Practices
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+</p>
 
 ## 📫 Connect With Me
 
@@ -71,5 +82,7 @@ This GitHub profile showcases my learning journey, projects, and practical exper
 - 💻 GitHub: [sk7652183-rgb](https://github.com/sk7652183-rgb)
 
 ---
+
+
 
 ⭐ Thanks for visiting my profile!
