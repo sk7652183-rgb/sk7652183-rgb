@@ -48,11 +48,12 @@ This GitHub profile showcases my learning journey, projects, and practical exper
 * Advanced CI/CD
 * Cloud Infrastructure Automation
 * DevOps Best Practices
+  
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/sk7652183-rgb
-* LinkedIn: *(Add your LinkedIn URL here)*
+- 💼 LinkedIn: [Abu Sufiyan Khan](https://www.linkedin.com/in/abusufiyan-khan-22936a159/)
+- 💻 GitHub: [sk7652183-rgb](https://github.com/sk7652183-rgb)
 
 ---
 
